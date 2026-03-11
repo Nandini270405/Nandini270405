@@ -1,12 +1,59 @@
-- 👋 Hi, I’m @Nandini270405
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning different coding languages...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me - nandinibiswal2704@gmail.com ...
-- 😄 Pronouns: she/her ...
-- ⚡ Fun fact:i'm a big bigg foodie!! ...
+# Hi 👋, I'm Nandini
 
-<!---
-Nandini270405/Nandini270405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 CSE Student  
+💻 Passionate about Programming, Web Development & Problem Solving  
+🌱 Currently learning Data Structures, Algorithms and Machine Learning  
+
+---
+
+## 🚀 About Me
+
+- 🎯 I enjoy solving coding problems and building projects  
+- 💡 Interested in Web Development and Software Engineering  
+- 📚 Currently improving my DSA skills  
+- 🚀 Exploring Machine Learning  
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,mysql,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandini270405&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandini270405&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini270405&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 🧠 Fun Fact
+
+I believe **every bug is just a puzzle waiting to be solved** 🧩
