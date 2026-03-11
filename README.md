@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nandini
+# Hi 👋, I'm Nandini Kumari Biswal.
 
 🎓 CSE Student  
 💻 Passionate about Programming, Web Development & Problem Solving  
